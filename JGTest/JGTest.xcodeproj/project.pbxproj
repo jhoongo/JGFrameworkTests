@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 52;
 	objects = {
 
 /* Begin PBXAggregateTarget section */
@@ -24,36 +24,19 @@
 		D582129425BA4B7500E2AABB /* JGDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D582129325BA4B7500E2AABB /* JGDate.swift */; };
 		D582129A25BA4C2E00E2AABB /* JGTestUser.swift in Sources */ = {isa = PBXBuildFile; fileRef = D582129925BA4C2E00E2AABB /* JGTestUser.swift */; };
 		D5B32D1A25BA4942007B3658 /* JGTest.h in Headers */ = {isa = PBXBuildFile; fileRef = D5B32D1825BA4942007B3658 /* JGTest.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D5B32D2225BA495D007B3658 /* JGTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5B32D2125BA495D007B3658 /* JGTest.swift */; };
 		D5B32D2525BA4A53007B3658 /* JGCalculate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5B32D2425BA4A53007B3658 /* JGCalculate.swift */; };
+		D5B9B9B225BAADF500156361 /* JGCore in Frameworks */ = {isa = PBXBuildFile; productRef = D5B9B9B125BAADF500156361 /* JGCore */; };
+		D5B9B9B825BAAEFE00156361 /* JGTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5B9B9B725BAAEFE00156361 /* JGTest.swift */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		D582128725BA4B0700E2AABB /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D582128325BA4B0700E2AABB /* JGCore.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = D582127725BA4AFA00E2AABB;
-			remoteInfo = JGCore;
-		};
-		D582128B25BA4B1200E2AABB /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D582128325BA4B0700E2AABB /* JGCore.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = D582127625BA4AFA00E2AABB;
-			remoteInfo = JGCore;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
-		D582128325BA4B0700E2AABB /* JGCore.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = JGCore.xcodeproj; path = ../JGCore/JGCore.xcodeproj; sourceTree = "<group>"; };
 		D582129325BA4B7500E2AABB /* JGDate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JGDate.swift; sourceTree = "<group>"; };
 		D582129925BA4C2E00E2AABB /* JGTestUser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JGTestUser.swift; sourceTree = "<group>"; };
 		D5B32D1525BA4942007B3658 /* JGTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JGTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5B32D1825BA4942007B3658 /* JGTest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JGTest.h; sourceTree = "<group>"; };
 		D5B32D1925BA4942007B3658 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D5B32D2125BA495D007B3658 /* JGTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JGTest.swift; sourceTree = "<group>"; };
 		D5B32D2425BA4A53007B3658 /* JGCalculate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JGCalculate.swift; sourceTree = "<group>"; };
+		D5B9B9B725BAAEFE00156361 /* JGTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JGTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,24 +44,16 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D5B9B9B225BAADF500156361 /* JGCore in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D582128425BA4B0700E2AABB /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				D582128825BA4B0700E2AABB /* JGCore.framework */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
 		D5B32D0B25BA4942007B3658 = {
 			isa = PBXGroup;
 			children = (
-				D582128325BA4B0700E2AABB /* JGCore.xcodeproj */,
 				D5B32D1725BA4942007B3658 /* JGTest */,
 				D5B32D1625BA4942007B3658 /* Products */,
 			);
@@ -97,10 +72,10 @@
 			children = (
 				D5B32D1825BA4942007B3658 /* JGTest.h */,
 				D5B32D1925BA4942007B3658 /* Info.plist */,
-				D5B32D2125BA495D007B3658 /* JGTest.swift */,
 				D5B32D2425BA4A53007B3658 /* JGCalculate.swift */,
 				D582129325BA4B7500E2AABB /* JGDate.swift */,
 				D582129925BA4C2E00E2AABB /* JGTestUser.swift */,
+				D5B9B9B725BAAEFE00156361 /* JGTest.swift */,
 			);
 			path = JGTest;
 			sourceTree = "<group>";
@@ -131,9 +106,11 @@
 			buildRules = (
 			);
 			dependencies = (
-				D582128C25BA4B1200E2AABB /* PBXTargetDependency */,
 			);
 			name = JGTest;
+			packageProductDependencies = (
+				D5B9B9B125BAADF500156361 /* JGCore */,
+			);
 			productName = JGTest;
 			productReference = D5B32D1525BA4942007B3658 /* JGTest.framework */;
 			productType = "com.apple.product-type.framework";
@@ -164,14 +141,11 @@
 				Base,
 			);
 			mainGroup = D5B32D0B25BA4942007B3658;
+			packageReferences = (
+				D5B9B9B025BAADF500156361 /* XCRemoteSwiftPackageReference "JGFrameworkTests" */,
+			);
 			productRefGroup = D5B32D1625BA4942007B3658 /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = D582128425BA4B0700E2AABB /* Products */;
-					ProjectRef = D582128325BA4B0700E2AABB /* JGCore.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
 				D5B32D1425BA4942007B3658 /* JGTest */,
@@ -179,16 +153,6 @@
 			);
 		};
 /* End PBXProject section */
-
-/* Begin PBXReferenceProxy section */
-		D582128825BA4B0700E2AABB /* JGCore.framework */ = {
-			isa = PBXReferenceProxy;
-			fileType = wrapper.framework;
-			path = JGCore.framework;
-			remoteRef = D582128725BA4B0700E2AABB /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		D5B32D1325BA4942007B3658 /* Resources */ = {
@@ -225,7 +189,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D5B32D2225BA495D007B3658 /* JGTest.swift in Sources */,
+				D5B9B9B825BAAEFE00156361 /* JGTest.swift in Sources */,
 				D5B32D2525BA4A53007B3658 /* JGCalculate.swift in Sources */,
 				D582129425BA4B7500E2AABB /* JGDate.swift in Sources */,
 				D582129A25BA4C2E00E2AABB /* JGTestUser.swift in Sources */,
@@ -233,14 +197,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		D582128C25BA4B1200E2AABB /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = JGCore;
-			targetProxy = D582128B25BA4B1200E2AABB /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		D58212A125BA4DE900E2AABB /* Debug */ = {
@@ -471,6 +427,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		D5B9B9B025BAADF500156361 /* XCRemoteSwiftPackageReference "JGFrameworkTests" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/jhoongo/JGFrameworkTests";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.1.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		D5B9B9B125BAADF500156361 /* JGCore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D5B9B9B025BAADF500156361 /* XCRemoteSwiftPackageReference "JGFrameworkTests" */;
+			productName = JGCore;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = D5B32D0C25BA4942007B3658 /* Project object */;
 }

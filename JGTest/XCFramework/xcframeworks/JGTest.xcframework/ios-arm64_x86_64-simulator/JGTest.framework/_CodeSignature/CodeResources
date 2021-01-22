@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/JGTest.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		yK1IQEmgE/4xI9cfdWObsFm9f9k=
+		gUdQM4Jkw5+Kj82bHppEWOAuUEQ=
 		</data>
 		<key>Modules/JGTest.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/JGTest.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		yK1IQEmgE/4xI9cfdWObsFm9f9k=
+		gUdQM4Jkw5+Kj82bHppEWOAuUEQ=
 		</data>
 		<key>Modules/JGTest.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/JGTest.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		USJAzQYpthMMi3GvAvaaHYqAv7M=
+		fcIitDb8zkhUTOcT0Z+f84ZX/BY=
 		</data>
 		<key>Modules/JGTest.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/JGTest.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		USJAzQYpthMMi3GvAvaaHYqAv7M=
+		fcIitDb8zkhUTOcT0Z+f84ZX/BY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -103,7 +103,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			o5v/TfikTNve4eAe+Sku+idC+0VxmHf7mo9rg5DxO1k=
+			xDO+VO9eTdkbFhAuN8ayaWJ0t/ntunKPSv1hAUu8ac0=
 			</data>
 		</dict>
 		<key>Modules/JGTest.swiftmodule/arm64.swiftdoc</key>
@@ -124,7 +124,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			o5v/TfikTNve4eAe+Sku+idC+0VxmHf7mo9rg5DxO1k=
+			xDO+VO9eTdkbFhAuN8ayaWJ0t/ntunKPSv1hAUu8ac0=
 			</data>
 		</dict>
 		<key>Modules/JGTest.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -145,7 +145,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LvBTq528g/QOJ0galvZBpXONBCUYdzNUJrPvDIL8gxM=
+			LCzrjpRGQaSLDBQv6985x+ihwXIcam9WC/CQNdLI1gc=
 			</data>
 		</dict>
 		<key>Modules/JGTest.swiftmodule/x86_64.swiftdoc</key>
@@ -166,7 +166,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LvBTq528g/QOJ0galvZBpXONBCUYdzNUJrPvDIL8gxM=
+			LCzrjpRGQaSLDBQv6985x+ihwXIcam9WC/CQNdLI1gc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

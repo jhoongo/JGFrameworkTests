@@ -1,3 +1,7 @@
 build/
 .build/
 .swiftpm/
+JGTest/build/
+JGTest/JGTest/
+JGTest/XCFramework/archives/
+JGTest/JGTest.xcodeproj/
