@@ -5,3 +5,5 @@ JGTest/build/
 JGTest/JGTest/
 JGTest/XCFramework/archives/
 JGTest/JGTest.xcodeproj/
+JGTest/.build/
+JGTest/.swiftpm
