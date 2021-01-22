@@ -1,0 +1,4 @@
+module JGCore {
+    header "/Users/james.go/Documents/workspace/JGFrameworkTests/JGCore/.build/x86_64-apple-macosx/debug/JGCore.build/JGCore-Swift.h"
+    requires objc
+}

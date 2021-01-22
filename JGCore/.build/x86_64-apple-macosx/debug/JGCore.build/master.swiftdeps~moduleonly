@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "25cb6b69618eda8b394100ecf22f378b"
+build_time: [1611275197, 910318000]
+inputs:
+  "/Users/james.go/Documents/workspace/JGFrameworkTests/JGCore/JGCore/JGDate.swift": [1611273206, 48690973]
+  "/Users/james.go/Documents/workspace/JGFrameworkTests/JGCore/JGCore/JGUser.swift": [1611273471, 805968659]

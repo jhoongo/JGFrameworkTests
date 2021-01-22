@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/james.go/Documents/workspace/JGFrameworkTests/JGCore/.build/x86_64-apple-macosx/debug/JGCore.build/master.swiftdeps"
+  },
+  "/Users/james.go/Documents/workspace/JGFrameworkTests/JGCore/JGCore/JGDate.swift": {
+    "dependencies": "/Users/james.go/Documents/workspace/JGFrameworkTests/JGCore/.build/x86_64-apple-macosx/debug/JGCore.build/JGDate.d",
+    "object": "/Users/james.go/Documents/workspace/JGFrameworkTests/JGCore/.build/x86_64-apple-macosx/debug/JGCore.build/JGDate.swift.o",
+    "swiftmodule": "/Users/james.go/Documents/workspace/JGFrameworkTests/JGCore/.build/x86_64-apple-macosx/debug/JGCore.build/JGDate~partial.swiftmodule",
+    "swift-dependencies": "/Users/james.go/Documents/workspace/JGFrameworkTests/JGCore/.build/x86_64-apple-macosx/debug/JGCore.build/JGDate.swiftdeps"
+  },
+  "/Users/james.go/Documents/workspace/JGFrameworkTests/JGCore/JGCore/JGUser.swift": {
+    "dependencies": "/Users/james.go/Documents/workspace/JGFrameworkTests/JGCore/.build/x86_64-apple-macosx/debug/JGCore.build/JGUser.d",
+    "object": "/Users/james.go/Documents/workspace/JGFrameworkTests/JGCore/.build/x86_64-apple-macosx/debug/JGCore.build/JGUser.swift.o",
+    "swiftmodule": "/Users/james.go/Documents/workspace/JGFrameworkTests/JGCore/.build/x86_64-apple-macosx/debug/JGCore.build/JGUser~partial.swiftmodule",
+    "swift-dependencies": "/Users/james.go/Documents/workspace/JGFrameworkTests/JGCore/.build/x86_64-apple-macosx/debug/JGCore.build/JGUser.swiftdeps"
+  }
+}

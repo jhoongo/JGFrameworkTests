@@ -1,6 +1,7 @@
+// swift-tools-version:5.3
 import PackageDescription
 
-let package = Package {
+let package = Package (
     name: "JGCore",
     defaultLocalization: "en",
     platforms: [
@@ -12,6 +13,6 @@ let package = Package {
     dependencies: [
     ],
     targets: [
-        .target(name: "JGCore", path: "JGCore", exclude: ["Info.plist", "JGCore.h"], resources: [])
+        .target(name: "JGCore", path: "JGCore", exclude: ["Info.plist", "JGCore.h"])
     ]
-}
+)

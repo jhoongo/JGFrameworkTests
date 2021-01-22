@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/JGCore.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		fpRG2UWvK3blsUq376BAiHZyxzM=
+		uu8YUptcYLT35meAU1Ue/UufX6Y=
 		</data>
 		<key>Modules/JGCore.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/JGCore.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		fpRG2UWvK3blsUq376BAiHZyxzM=
+		uu8YUptcYLT35meAU1Ue/UufX6Y=
 		</data>
 		<key>Modules/JGCore.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/JGCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		69bfDO8k0BnANG0TSFGs3ZHIbGo=
+		9x7T6JCIEBttn2CyvDZ0ho1q6TI=
 		</data>
 		<key>Modules/JGCore.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/JGCore.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		69bfDO8k0BnANG0TSFGs3ZHIbGo=
+		9x7T6JCIEBttn2CyvDZ0ho1q6TI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -103,7 +103,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5c2YuHg8MWB/zMx7vSyq8NE1b8Prl1isz844T4agDS4=
+			K/0EywaoESPyLb0NskWR4i95JCpqiHCIrGbgSqU7Fms=
 			</data>
 		</dict>
 		<key>Modules/JGCore.swiftmodule/arm64.swiftdoc</key>
@@ -124,7 +124,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5c2YuHg8MWB/zMx7vSyq8NE1b8Prl1isz844T4agDS4=
+			K/0EywaoESPyLb0NskWR4i95JCpqiHCIrGbgSqU7Fms=
 			</data>
 		</dict>
 		<key>Modules/JGCore.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -145,7 +145,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xCrd7WJvcDpKpIhwryyTKkqAoyvfydpqo/kbCyd1wlQ=
+			R1i5WjMmDwnHiMXzBWL5HXsOQWpLDl5NlL/xPw1ALu4=
 			</data>
 		</dict>
 		<key>Modules/JGCore.swiftmodule/x86_64.swiftdoc</key>
@@ -166,7 +166,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xCrd7WJvcDpKpIhwryyTKkqAoyvfydpqo/kbCyd1wlQ=
+			R1i5WjMmDwnHiMXzBWL5HXsOQWpLDl5NlL/xPw1ALu4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

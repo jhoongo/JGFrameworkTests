@@ -2,8 +2,8 @@ BCSymbolMap Version: 2.0
 Apple clang version 12.0.0 (clang-1200.0.32.28)
 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.3.sdk
 iPhoneOS14.3.sdk
-/Users/james.go/Library/Developer/Xcode/DerivedData/JGTest-gmmqlmjgrvhnjqbyysjsbaedvcii/Build/Intermediates.noindex/DependentBuilds/JGTest.build/Debug-iphoneos/JGTest.build/DerivedSources/JGTest_vers.c
-/Users/james.go/Documents/workspace/Test/JGTest
+/Users/james.go/Library/Developer/Xcode/DerivedData/JGTest-hfhhuoebddlrluflbatltlmwteut/Build/Intermediates.noindex/DependentBuilds/JGTest.build/Debug-iphoneos/JGTest.build/DerivedSources/JGTest_vers.c
+/Users/james.go/Documents/workspace/JGFrameworkTests/JGTest
 _$s6JGTestAAC9thisValueSivpfi
 _$s6JGTestAAC9thisValueSivpABTK
 _$s6JGTestAAC9thisValueSivpABTk
@@ -46,7 +46,7 @@ _$s6JGTestAACAByc33_DB64ED4D7D109040F729B691A40D08FDLlfCTq
 -private-discriminator _DB64ED4D7D109040F729B691A40D08FD
 <swift-imported-modules>
 Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)
-/Users/james.go/Documents/workspace/Test/JGTest/JGTest/JGTest.swift
+/Users/james.go/Documents/workspace/JGFrameworkTests/JGTest/JGTest/JGTest.swift
 deinit
 getValue
 Swift runtime failure: arithmetic overflow
@@ -67,7 +67,7 @@ __DATA__TtC6JGTest11JGCalculate
 _$s6JGTest11JGCalculateCMf
 _symbolic _____ 6JGTest11JGCalculateC
 _$s6JGTest11JGCalculateCMF
-/Users/james.go/Documents/workspace/Test/JGTest/JGTest/JGCalculate.swift
+/Users/james.go/Documents/workspace/JGFrameworkTests/JGTest/JGTest/JGCalculate.swift
 $s6JGTest11JGCalculateCMa
 oneOffAdd
 ___swift_instantiateConcreteTypeFromMangledName
@@ -76,7 +76,7 @@ _$s10Foundation4DateVSgWOc
 _$s10Foundation4DateVSgWOh
 _symbolic _____Sg 10Foundation4DateV
 _$s10Foundation4DateVSgMD
-/Users/james.go/Documents/workspace/Test/JGTest/JGTest/JGDate.swift
+/Users/james.go/Documents/workspace/JGFrameworkTests/JGTest/JGTest/JGDate.swift
 $s10Foundation4DateVSgWOh
 $s10Foundation4DateVSgWOc
 date
@@ -93,7 +93,7 @@ _$s6JGTest0A4UserCMP
 _$s6JGTest0A4UserCMt
 _symbolic _____ 6JGTest0A4UserC
 _$s6JGTest0A4UserCMF
-/Users/james.go/Documents/workspace/Test/JGTest/JGTest/JGTestUser.swift
+/Users/james.go/Documents/workspace/JGFrameworkTests/JGTest/JGTest/JGTestUser.swift
 $s6JGTest0A4UserCMU
 $s6JGTest0A4UserCMr
 $s6JGTest0A4UserCMa

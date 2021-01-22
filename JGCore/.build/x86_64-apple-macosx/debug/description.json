@@ -1,0 +1,14 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "swiftTargetMap" : {
+    "C.JGCore-debug.module" : "JGCore"
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}
