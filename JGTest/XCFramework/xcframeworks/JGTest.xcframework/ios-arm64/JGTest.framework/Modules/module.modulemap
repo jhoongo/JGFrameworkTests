@@ -1,0 +1,11 @@
+framework module JGTest {
+  umbrella header "JGTest.h"
+
+  export *
+  module * { export * }
+}
+
+module JGTest.Swift {
+    header "JGTest-Swift.h"
+    requires objc
+}

@@ -1,0 +1,25 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)
+// swift-module-flags: -target arm64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name JGTest
+import Foundation
+import JGCore
+@_exported import JGTest
+import Swift
+@_hasMissingDesignatedInitializers public class JGTest {
+  public func start() -> JGTest.JGTest
+  public func hello()
+  public func getValue() -> Swift.Int
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class JGCalculate {
+  public static func oneOffAdd(_ x: Swift.Int, _ y: Swift.Int) -> Swift.Int
+  @objc deinit
+}
+extension JGDate {
+  public static func getTomorrow() -> Foundation.Date?
+}
+@_inheritsConvenienceInitializers public class JGTestUser : JGCore.JGUser {
+  override public func getName() -> Swift.String
+  @objc deinit
+  override public init()
+}
