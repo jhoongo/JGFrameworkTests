@@ -6,9 +6,11 @@
 //
 
 import Foundation
+import FacebookLogin
 
 public class JGDate {
     public static func getCurrentDate() -> Date {
+        let _ = LoginManager()
         return Date()
     }
 }
